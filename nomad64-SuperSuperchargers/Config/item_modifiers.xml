@@ -1,0 +1,4 @@
+<configs>
+    <set xpath="/item_modifiers/item_modifier[@name='modVehicleSuperCharger']/effect_group/passive_effect[@name='VehicleVelocityMaxPer']/@value">3</set>
+    <set xpath="/item_modifiers/item_modifier[@name='modVehicleSuperCharger']/effect_group/passive_effect[@name='VehicleVelocityMaxTurboPer']/@value">3.3</set>
+</configs>

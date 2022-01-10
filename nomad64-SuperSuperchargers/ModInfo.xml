@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="Nomad64's Super Superchargers Mod" />
+        <Description value="This modlet increases the vehicle speeds when a supercharger mod is installed." />
+        <Author value="Nomad64" />
+        <Version value="1.0" />
+    </ModInfo>
+</xml>
